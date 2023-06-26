@@ -61,7 +61,7 @@ function Navbar() {
         </div>
         <div className='navbar-links-container'>
             <a href="https://www.linkedin.com/in/aryan-kumar-a860ba187/">Home</a>
-            <a href=https://www.linkedin.com/in/aryan-kumar-a860ba187/">About</a>
+            <a href="https://www.linkedin.com/in/aryan-kumar-a860ba187/">About</a>
             <a href="https://www.linkedin.com/in/aryan-kumar-a860ba187/">Testimonials</a>
             <a href="https://www.linkedin.com/in/aryan-kumar-a860ba187/">Contact</a>
             <a href="https://www.linkedin.com/in/aryan-kumar-a860ba187/">
