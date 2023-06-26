@@ -60,11 +60,11 @@ function Navbar() {
             <img src={Logo} alt=""/>
         </div>
         <div className='navbar-links-container'>
-            <a href="https://www.youtube.com/watch?v=GVjIflROwJ4&ab_channel=TheHyperArt">Home</a>
-            <a href="https://www.youtube.com/watch?v=GVjIflROwJ4&ab_channel=TheHyperArt">About</a>
-            <a href="https://www.youtube.com/watch?v=GVjIflROwJ4&ab_channel=TheHyperArt">Testimonials</a>
-            <a href="https://www.youtube.com/watch?v=GVjIflROwJ4&ab_channel=TheHyperArt">Contact</a>
-            <a href="https://www.youtube.com/watch?v=GVjIflROwJ4&ab_channel=TheHyperArt">
+            <a href="https://www.linkedin.com/in/aryan-kumar-a860ba187/">Home</a>
+            <a href=https://www.linkedin.com/in/aryan-kumar-a860ba187/">About</a>
+            <a href="https://www.linkedin.com/in/aryan-kumar-a860ba187/">Testimonials</a>
+            <a href="https://www.linkedin.com/in/aryan-kumar-a860ba187/">Contact</a>
+            <a href="https://www.linkedin.com/in/aryan-kumar-a860ba187/">
                 <BsCart2  className='navbar-cart-icon'/>
             </a>
             <button className='primary-button'>Bookings Now</button>
